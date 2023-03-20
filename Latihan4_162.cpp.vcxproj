@@ -127,8 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include=".cpp" />
     <ClCompile Include="Latihan4_162.cpp.cpp" />
     <ClCompile Include="latihan5.cpp" />
+    <ClCompile Include="Latihan5_162.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="latiha51" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

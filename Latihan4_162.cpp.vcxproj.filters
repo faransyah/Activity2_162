@@ -21,5 +21,14 @@
     <ClCompile Include="latihan5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include=".cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Latihan5_162.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="latiha51" />
   </ItemGroup>
 </Project>
